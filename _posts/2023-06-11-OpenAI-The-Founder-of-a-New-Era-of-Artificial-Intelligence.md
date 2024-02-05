@@ -3,6 +3,7 @@ layout: post
 title:  "OpenAI：塑造人工智能新纪元的奠基者"
 categories: [AI]
 tags: [OpenAI, ChatGPT]
+comments: true
 ---
 
 OpenAI是一家美国的人工智能（AI）研究实验室，由非营利性的OpenAI Incorporated和其营利性子公司OpenAI Limited Partnership组成。OpenAI的宣称目标是推动和发展友好的AI。自2015年成立以来，它在AI领域取得了众多令人瞩目的成就。其最新的语言模型GPT-4更是在AI的发展历程中创下了新的里程碑。
