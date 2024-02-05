@@ -29,21 +29,21 @@ github:
   username: Chen-Isaac # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: stupidponder # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Isaac Chen
   email: cxx7821@gmail.com # change to your email address
-  links:
+  links: 
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/isaac-xinxi-chen
     - https://github.com/Chen-Isaac # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # 
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://www.facebook.com/IsaacChen85
+    
+    - https://twitter.com/stupidponder # change to your twitter homepage 
 
 google_site_verification: # fill in to your verification string
 
